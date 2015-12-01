@@ -1,6 +1,6 @@
-# Hubot
+# Hubot 
 
-Hubot is a chat Hubot built on the [Hubot][hubot] framework. 
+Hubot is a chat Hubot built on the [Hubot][hubot] framework.
 
 [hubot]: http://hubot.github.com
 
