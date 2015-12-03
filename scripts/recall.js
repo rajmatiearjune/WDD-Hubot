@@ -18,7 +18,7 @@ module.exports = function(robot) {  // export the function as a module
 
     robot.hear(/@res (.*)/i, function(res) {
         var message = res.match[1];  // stores into message the string after "@hubot"
-            console.log(robot);
+          //  console.log(robot);
             return res.send(robot);  // send cleverbot's response
 
     });
